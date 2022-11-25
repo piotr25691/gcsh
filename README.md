@@ -10,5 +10,6 @@ A bash script capable of freeing up your memory by abusing your system's garbage
 
 ## What will happen after you run it?
 Total system memory usage may drop by up to 50%, memory usage per process may drop by up to 90%.<br>
-⚠️ Be aware that the freed up memory may be reclaimed by running applications over time.<br>
-⚠️ You will need Python 3 installed in order for this to work.
+
+<sup><sub>Be aware that the freed up memory may be reclaimed by running applications over time.<br>
+You will need Python 3 installed in order for this to work.</sup></sub>
